@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Youngjun Hwang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "기술, 생각 정리 블로그"
+  location         : "Suwon"
+  email            : "joon2974@ajou.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
